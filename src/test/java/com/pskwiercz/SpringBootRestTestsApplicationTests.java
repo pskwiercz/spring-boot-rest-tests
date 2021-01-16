@@ -1,4 +1,4 @@
-package com.pskwiercz.springbootresttests;
+package com.pskwiercz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

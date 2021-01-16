@@ -1,4 +1,4 @@
-package com.pskwiercz.springbootresttests;
+package com.pskwiercz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
